@@ -10,8 +10,6 @@ Questions for analysis
 
 •	Which neighborhoods are the most expensive?
 
-•	Do people who own multiple properties differ in their rental trends from solo homeowners?
-
 •	Do prices vary as much for a rented room compared to a rented house/apartment?
 
 •	Do people with very few reviews rent their properties cheaper?
