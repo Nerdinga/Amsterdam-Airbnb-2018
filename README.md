@@ -14,6 +14,3 @@ Questions for analysis
 
 •	Do people with very few reviews rent their properties cheaper?
 
-•	Are properties with longer minimum nights are cheaper or more expensive compared to the properties available for 1 night?
-
-
