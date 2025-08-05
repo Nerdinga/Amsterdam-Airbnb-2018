@@ -1,8 +1,5 @@
 # Amsterdam-Airbnb-2018
 
-**Visualisation**
-
-[My Tableau storyboard](https://public.tableau.com/views/AirbnbAmsterdam2018/Story1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Data**
 
@@ -17,4 +14,8 @@ There were no duplicates and in general this data seems to be of good quality. T
 •	Do prices vary as much for a rented room compared to a rented house/apartment?
 
 •	Do people with very few reviews rent their properties cheaper?
+
+**Visualisation**
+
+[My Tableau storyboard](https://public.tableau.com/views/AirbnbAmsterdam2018/Story1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
